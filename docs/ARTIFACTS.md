@@ -1,0 +1,11 @@
+# Delivered PDF artifacts
+
+Generated and visually inspected locally. Build Chat has an explicitly stated capture cutoff.
+
+
+
+BUILDCHAT_Emiliano_Carballido.pdf: SHA256 03bc71a3a01c16b8c2f5e39cc67d2b759ab09aa8a993daf9c2d380825501a7e8
+
+PACKET_Emiliano_Carballido.pdf: SHA256 252d2ba5b426640e06a3debdebe92bad54f06c9758414f6d002e114ca1e101a6
+
+PERSONA_Emiliano_Carballido.pdf: SHA256 267b074fe0e070b2e948bad439b9d709a3fe0094332ebeda03da1f9a60984d8c

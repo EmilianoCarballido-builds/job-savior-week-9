@@ -8,3 +8,8 @@ Free default: visibly simulated feedback, never presented as a live LLM evaluati
 [Packet](docs/PACKET.md) · [Build prompt](docs/IMPLEMENTATION_PROMPT.md) · [Decisions](DECISIONS.md)
 
 No CV builder, job board, scores, rankings, hiring decisions, unpaid client work or verified badges. Named human observation/review is a boundary outside this demo, not a claim made by the download. Pilot outcomes are not tested. Team 2 blueprint is a draft.
+
+## Submission
+[Live demo](https://job-savior-week-9.vercel.app) · [Actual tests](docs/TEST_LOG.md) · [Synthetic persona](docs/PERSONA.md) · [Session close and deployment evidence](docs/SESSION_CLOSE.md) · [Video guide](docs/DEMO_GUIDE.md)
+
+Three PDF artifacts delivered in the Codex task outputs. Video recording and the student's own 30-second reflection remain to be completed. No claim of live LLM inference or real employer validation.

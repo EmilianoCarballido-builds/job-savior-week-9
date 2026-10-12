@@ -17,3 +17,5 @@ Fix: clear answer, feedback, label, reason and comparison DOM nodes, as well as 
 
 ## Limits
 No live provider call, paid usage, identity verification, named human assessment, real-user test or employer pilot was performed. The default is simulated, not evidence of working live LLM inference. The five-credit plan counts project commits after the pre-existing initial repository commit. Deployment 2 result is recorded in SESSION_CLOSE.md after it completes.
+
+Deployment 2 verification: Vercel reported READY. The public production page showed the revised consent. The production app.js contained DOM clearing and request invalidation, and the production POST returned simulated mode with both comparisons true. No access-control settings were changed. PDF artifacts rendered for visual inspection: Packet 4 pages, Persona 2 pages, Build Chat 14 pages; the transcript declares its available-message cutoff.
