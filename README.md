@@ -3,7 +3,7 @@ One Spanish fictional bookkeeping task: initial response → changed condition �
 
 Run `npm run dev` with Node 22+; test with `npm test`. No install dependencies. Deploy on Vercel with Other framework, public output directory, no build command. No database, account or candidate fee.
 
-Free default: visibly simulated feedback, never presented as a live LLM evaluation. The server-side Gateway integration is implemented but disabled by default to avoid spending. A live demonstration requires Gateway access and Vercel environment `ENABLE_LIVE_AI=true`; use OIDC or secret `AI_GATEWAY_API_KEY`, with `AI_GATEWAY_MODEL` set to a catalog ID. Do not enable paid usage for this assignment. LLM availability and the Dragon Stack live requirement must not be claimed as tested in simulation mode.
+Free default: visibly simulated feedback, never presented as a live LLM evaluation. The server-side Gateway integration is implemented but disabled by default to avoid spending. A live demonstration requires Gateway access and Vercel environment `ENABLE_LIVE_AI=true`; use OIDC or secret `AI_GATEWAY_API_KEY`, with `AI_GATEWAY_MODEL` set to a catalog ID. The current UI intentionally sends no liveConsent, so the deployed demo never invokes the provider. Before enabling live calls, change the consent copy to identify the provider and collect explicit liveConsent:true separately. Do not enable paid usage for this assignment. LLM availability and the Dragon Stack live requirement must not be claimed as tested in simulation mode.
 
 [Packet](docs/PACKET.md) · [Build prompt](docs/IMPLEMENTATION_PROMPT.md) · [Decisions](DECISIONS.md)
 
